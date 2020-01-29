@@ -1,0 +1,3 @@
+[submodule "Maya/scripts/python-api"]
+	path = Maya/scripts/python-api
+	url = https://github.com/shotgunsoftware/python-api.git
