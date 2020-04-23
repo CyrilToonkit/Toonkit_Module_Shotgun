@@ -1,3 +1,4 @@
-[submodule "Maya/scripts/python-api"]
-	path = Maya/scripts/pythonApi
-	url = https://github.com/shotgunsoftware/python-api.git
+[submodule "Maya/scripts/Toonkit_Core/tkProjects/dbEngines/ShotgunEngine"]
+	path = Maya/scripts/Toonkit_Core/tkProjects/dbEngines/ShotgunEngine
+	url = https://github.com/CyrilToonkit/ShotgunEngine.git
+	branch = master
